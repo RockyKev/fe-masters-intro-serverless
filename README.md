@@ -2,6 +2,8 @@
 
 This is the source code for a Frontend Masters course with Jason Lengstorf about serverless functions.
 
+`ntl dev`
+
 ### [See details](https://frontendmasters.com/workshops/serverless-functions/)
 
 ## Resources
@@ -10,6 +12,7 @@ This is the source code for a Frontend Masters course with Jason Lengstorf about
 - [Netlify Identity](https://docs.netlify.com/visitor-access/identity/?utm_source=fem-sls&utm_medium=functions-jl&utm_campaign=devex)
 - [Hasura](https://cloud.hasura.io/)
 - [Heroku](https://www.heroku.com/)
+
 
 ## License
 
